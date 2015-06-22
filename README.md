@@ -1,4 +1,4 @@
 Blog
 ====
 
-Code used in my personal blog (for historical purposes)
+Archived old code for historical blog purposes.
