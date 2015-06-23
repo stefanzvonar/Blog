@@ -1,4 +1,4 @@
 Blog
 ====
 
-Archived old code examples for historical purposes.
+Archived code examples for historical purposes.
